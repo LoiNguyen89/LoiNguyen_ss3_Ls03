@@ -1,0 +1,30 @@
+/* selector {
+            key: value; property - Thuộc tính
+            key2: value2
+            ...
+            keyN: valueN
+        } */
+        .class01{
+            text-align: center;
+        }
+        .classo2{
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+            text-align: center;
+          }
+          
+          td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 10px;
+          }
+          
+          tr:nth-child(even) {
+            background-color: #dddddd;
+          }
+        .class03{
+            color: white;
+            background-color: blue;
+            text-align: center;
+        }
